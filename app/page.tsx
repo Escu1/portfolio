@@ -289,7 +289,8 @@ export default function Home() {
 
         {/* Center */}
         <main className="flex-1 flex items-center justify-center relative z-10 pointer-events-none">
-          <div className="border-4 border-white p-2 rounded-2xl shadow-2xl w-[350px] h-[630px] overflow-hidden relative flex items-center justify-center">
+          {/* Hide preview box on mobile */}
+          <div className="border-4 border-white p-2 rounded-2xl shadow-2xl w-[350px] h-[630px] overflow-hidden relative flex items-center justify-center hidden sm:flex">
             {hoveredLeft && clips.length > 0 ? (
               <>
                 {/* Video for Twitch/YouTube */}
