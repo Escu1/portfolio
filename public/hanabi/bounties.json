@@ -1,0 +1,258 @@
+{
+  "bounties": [
+    {
+      "Title": "Master of the 84 Masks",
+      "Money": 50,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "Player who won with the most Unique Champs",
+      "Cleared": false
+    },
+    {
+      "Title": "Magical Dress Up Charlotte",
+      "Money": 50,
+      "Sponsor": "Donator: Yua",
+      "Text": "Most RP gained on Charlotte (Minimum 10 Games)",
+      "Cleared": false
+    },
+    {
+      "Title": "Lantern of the White sage",
+      "Money": 50,
+      "Sponsor": "Donator: Kazcross",
+      "Text": "Most informative and helpful streamer (Community Panel Vote)",
+      "Cleared": false
+    },
+    {
+      "Title": "Two Shots Two Kills",
+      "Money": 50,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "First player who kills 2 or more people with a single sniper skill (Clip Submission)",
+      "Cleared": false
+    },
+    {
+      "Title": "Ironman Run",
+      "Money": 50,
+      "Sponsor": "Donator: Radeent",
+      "Text": "First Player to win a game where your Team has 0 deaths",
+      "Cleared": true
+    },
+    {
+      "Title": "Tubbytep's Tantilizing Tastings",
+      "Money": 50,
+      "Sponsor": "Donator: Neotep",
+      "Text": "Win with 1 Of each Food Tier + Each Vision Tool + Any Trap (First to Hit) \n Send a Screenshot of your inventory + showing that you won with this inventory!!",
+      "Cleared": true
+    },
+    {
+      "Title": "Celestial Spark",
+      "Money": 25,
+      "Sponsor": "Donator: Cast",
+      "Text": "Player with the best submitted clip (Community Panel Vote)",
+      "Cleared": false
+    },
+    {
+      "Title": "Castella's Cut of Glory",
+      "Money": 25,
+      "Sponsor": "Donator: Cast",
+      "Text": "Player with the best submitted Yuki ULTIMATE Clip (Community Panel Vote)",
+      "Cleared": false
+    },
+    {
+      "Title": "Castella's Twinblade Tanuki",
+      "Money": 25,
+      "Sponsor": "Donator: Cast",
+      "Text": "Player with the most Kills on Dual Sword Yuki by the End of Event",
+      "Cleared": false
+    },
+    {
+      "Title": "Castella's Crimson Parasol",
+      "Money": 25,
+      "Sponsor": "Donator: Cast",
+      "Text": "Player with the Highest Kill (NOT Team Kill) Garnet Game",
+      "Cleared": false
+    },
+    {
+      "Title": "Castella's Eternal Flame",
+      "Money": 25,
+      "Sponsor": "Donator: Cast",
+      "Text": "Player with the Longest Win streak",
+      "Cleared": false
+    },
+    {
+      "Title": "Funnel Me Red Shoes",
+      "Money": 25,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "Highest rank player with at least 20 games of ly anh with at least 1 blood item",
+      "Cleared": false
+    },
+    {
+      "Title": "PTSD for G2",
+      "Money": 25,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "Player with the best submitted Kenneth clip. Must have at least one multi-person knockup (Community Panel vote)",
+      "Cleared": false
+    },
+    {
+      "Title": "It Takes 4 To Tango",
+      "Money": 25,
+      "Sponsor": "Donator: Xtro",
+      "Text": "Player with the best clip where you hit all 3 members of an enemy team with Camilo Ult \"including recasts\" (Community Vote)",
+      "Cleared": false
+    },
+    {
+      "Title": "Grandmaster at Arms",
+      "Money": 25,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "First player to Win with all 4 weapons on Jackie in the fewest total Jackie games played",
+      "Cleared": false
+    },
+    {
+      "Title": "Average ERM Mai",
+      "Money": 25,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "Player with the Highest Damage Mai Win",
+      "Cleared": false
+    },
+    {
+      "Title": "You're still my GOAT",
+      "Money": 15,
+      "Sponsor": "Donator: Chiizu",
+      "Text": "First Player to be Eliminated from the event (Hidden Condition)",
+      "Cleared": true
+    },
+    {
+      "Title": "Dedication Page",
+      "Money": 15,
+      "Sponsor": "Donator: Chiizu",
+      "Text": "First to win with a StoryTellers Comp Played in Ercc : Abigail, Istvan, Arda | Hyunwoo, Leni, Xuelin | Alex, Theodore, Irem | Nadine Mai Sissella",
+      "Cleared": true
+    },
+    {
+      "Title": "Clankers",
+      "Money": 15,
+      "Sponsor": "Donator: Hresvelg",
+      "Text": "First to Kill BOTH Alphas, AND Omega & Win (Replay Code Submission)",
+      "Cleared": true
+    },
+    {
+      "Title": "Do NOT let this man cook",
+      "Money": 15,
+      "Sponsor": "Donator: Hresvelg",
+      "Text": "Funniest Clip (Clip Submission)",
+      "Cleared": false
+    },
+    {
+      "Title": "T*bby",
+      "Money": 15,
+      "Sponsor": "Donator: Hresvelg",
+      "Text": "First to Eat all permanent consumable buffs & Win the game (Tears of Selene, Holy Water, Zen Vitality, Combat Epinephrine) (Replay Code Submission)",
+      "Cleared": true
+    },
+    {
+      "Title": "J7ang Back-to-School Special",
+      "Money": 10,
+      "Sponsor": "Donator: Chiizu",
+      "Text": "Person with Most kills in School Gymnasium Day 1. (Replay Code Submission)",
+      "Cleared": false
+    },
+    {
+      "Title": "Dfire Meteor Memorial",
+      "Money": 10,
+      "Sponsor": "Donator: Chiizu",
+      "Text": "Player with the best Clip involving a Meteor (Community Panel Vote)",
+      "Cleared": false
+    },
+    {
+      "Title": "Jtang's Candy Apple Costume",
+      "Money": 10,
+      "Sponsor": "Donator: J7ang",
+      "Text": "First player to hit a Full Blood Loadout",
+      "Cleared": true
+    },
+    {
+      "Title": "NT",
+      "Money": 10,
+      "Sponsor": "Donator: Hresvelg",
+      "Text": "First Player to be Eliminated from the event (Hidden Bounty)",
+      "Cleared": true
+    },
+    {
+      "Title": "This is My Domain",
+      "Money": 10,
+      "Sponsor": "Donator: Isterio",
+      "Text": "Most Independent kills (NOT TK) within a zone during day 1 (Replay Code Submission + Kill Total)",
+      "Cleared": false
+    },
+    {
+      "Title": "Trigger in Norms",
+      "Money": 25,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "First team to win with 30+ Kills (Replay Code Submission)",
+      "Cleared": true
+    },
+    {
+      "Title": "Pursuit",
+      "Money": 25,
+      "Sponsor": "Donator: NesiousGoLive",
+      "Text": "Player with the Most kills before day 3 By end of event (# of kills + Replay Code Submission)",
+      "Cleared": false
+    },
+    {
+      "Title": "Stargazer Bounty",
+      "Money": 15,
+      "Sponsor": "Donator: Effect",
+      "Text": "- Win a game on Adina w/o messing up a single constellation rotation (PVP Only) \n Replay Code Submission Subject to Effect Review",
+      "Cleared": false
+    },
+    {
+      "Title": "Oscar Worthy Performance",
+      "Money": 30,
+      "Sponsor": "Donator: SimplyPari",
+      "Text": "First Player to win a game as Jenny, without ever using Play Dead (passive)",
+      "Cleared": false
+    },
+    {
+      "Title": "Kittens Maxxing",
+      "Money": 20,
+      "Sponsor": "Donator: Fail Asian",
+      "Text": "Win a game with a Team Comp where 2 members are either (Johann/Leni/Charlotte) + X \n Ex. Johann Leni Ly Anh",
+      "Cleared": true
+    },
+    {
+      "Title": "NA 1st Worlds Comp",
+      "Money": 15,
+      "Sponsor": "Donator: Effect",
+      "Text": "Win a game with the comp being Hyejin Yuki Jackie",
+      "Cleared": false
+    },
+    {
+      "Title": "Go Punch Something",
+      "Money": 20,
+      "Sponsor": "Donator: Nehebka",
+      "Text": "Most RP Gained on Nicky (Minimum 10 Games of Nicky)",
+      "Cleared": false
+    },
+    {
+      "Title": "Rifles Galore",
+      "Money": 40,
+      "Sponsor": "Donator: Fail Asian",
+      "Text": "Win a game on a team with the 3 AR Characters (Aya Haze Isol)",
+      "Cleared": false
+    },
+    {
+      "Title": "Supp Gap :3",
+      "Money": 15,
+      "Sponsor": "Donator: Dwang",
+      "Text": "First to win a game on Leni with 3 Supports in the lobby \nEx. 4/8 Teams should have a support character\nSupport characters = Johann Charlotte Leni",
+      "Cleared": false
+    },
+    {
+      "Title": "a",
+      "Money": 4,
+      "Sponsor": "Donator: a",
+      "Text": "a",
+      "Cleared": false,
+      "Timer": 0,
+      "Tag": "None"
+    }
+  ]
+}

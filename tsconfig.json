@@ -19,7 +19,10 @@
       }
     ],
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@/assets": ["app/casino/assets"],
+      "@/hanabi-assets": ["app/hanabi/src/assets"],
+      "@/assets/player-icons": ["app/hanabi/src/assets/player-icons"]
     }
   },
   "include": [

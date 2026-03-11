@@ -1,3 +1,7 @@
+/* Override casino background image on main page */
+body.main-override::before {
+  background-image: none !important;
+}
 @import "tailwindcss";
 
 :root {

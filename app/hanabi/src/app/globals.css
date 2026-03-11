@@ -1,0 +1,133 @@
+/* Override global backgrounds when on Hanabi Cup */
+body.hanabi-cup-override::before {
+  background-image: none !important;
+}
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: clear;
+  color: var(--foreground);
+  z-index: 0;
+}
+
+/* Fullscreen background for diamonds */
+.background-diamonds {
+  overflow-x: hidden;
+  position: fixed;
+  top: -100%;
+  left: -100%;
+  width: 300vw;
+  height: 300vh;
+  background-image: repeating-conic-gradient(
+    #ffa9a9 0deg 90deg,
+    #ffaeae 90deg 180deg,
+    #ffa9a9 180deg 270deg,
+    #ffaeae 270deg 360deg
+  );
+  background-size: 150px 150px;
+  transform: rotate(45deg);
+  transform-origin: center;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* CLASSES FOR TIMER ASSETS */
+.corner-border-container {
+  position: relative;
+  padding: 20px;
+}
+
+/* Classes for toggle component */
+.toggle-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.toggle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+}
+
+.react-switch-checkbox {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+.react-switch-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  width: 50px;
+  height: 25px;
+  background: #b3b9be;
+  border-radius: 100px;
+  position: relative;
+  transition: background-color 0.2s;
+}
+
+.react-switch-label .react-switch-button {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  border-radius: 45px;
+  transition: 0.2s;
+  background: white;
+  box-shadow: 0 0 2px 0 rgba(10, 10, 10, 0.29);
+}
+
+.react-switch-checkbox:checked + .react-switch-label .react-switch-button {
+  left: calc(100% - 2px);
+  transform: translateX(-100%);
+  background: white;
+}
+
+.react-switch-checkbox:checked + .react-switch-label {
+  background: #ffe50c;
+}
+
+.react-switch-label:active .react-switch-button {
+  width: 20px;
+}
+
+.react-switch-button-disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+  left: calc(100% - 2px);
+  transform: translateX(-100%);
+  background: white;
+  width: 20px;
+}
+
+.react-switch-label-disabled {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  width: 50px;
+  height: 25px;
+  background: #b3b9be;
+  border-radius: 100px;
+  position: relative;
+  transition: background-color 0.2s;
+}
